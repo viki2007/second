@@ -1,3 +1,0 @@
-subtraction
-multiplication
-code tested
